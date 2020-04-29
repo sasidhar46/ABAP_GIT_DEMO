@@ -23,5 +23,4 @@
 
 REPORT  ZDEMO_GITHUB_PROGRAM1.
 
-write: 'Helo There. This is first line'.
-write: 'Helo There. This is first line2 added'.
+.
